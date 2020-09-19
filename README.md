@@ -11,7 +11,7 @@ pkg install git python2
 
 pip2 install --upgrade pip
 
-git clone 
+git clone https://github.com/heshanTMD/darkfb
 
 cd dark-fb
 
