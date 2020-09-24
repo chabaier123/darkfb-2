@@ -1,6 +1,6 @@
 # dark-fb
 
-Welcome To SL Android Youtube Channel
+Welcome To SL HACKERS Youtube Channel
 
 pip install  requests
 
@@ -9,9 +9,9 @@ pip2 install requests
 
 pkg install git python2
 
-pip2 install --upgrade pip
+pip2 https://github.com/heshanTMD/darkfb 
 
-git clone https://github.com/heshanTMD/darkfb
+git clone 
 
 cd dark-fb
 
