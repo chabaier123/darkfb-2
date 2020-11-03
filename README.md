@@ -9,9 +9,7 @@ pip2 install requests
 
 pkg install git python2
 
-pip2 https://github.com/heshanTMD/darkfb 
-
-git clone 
+git clone  ttps://github.com/heshanTMD/darkfb 
 
 cd dark-fb
 
